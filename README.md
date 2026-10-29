@@ -27,7 +27,3 @@ Um jogo 2D desenvolvido na **Godot Engine** com scripts em **GDScript**.
 - Interface de usuário (HUD, menus e pontuação).
 
 ---
-
-## 🎨 Capturas de Tela
-
-*(Adicione algumas imagens do jogo rodando aqui)*
